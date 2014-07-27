@@ -81,9 +81,9 @@ Section 5 - Take the averages of the variables by activity over all the subjects
         I was able to crack it.  I started by trying to conceptualize what the 
         outcome would look like and came up with the model below:
 
-  Activity    Subject         t.....X         t......Y        ETC.    
-  STANDING    2               ##.####         ##.####         ETC.       
-  STANDAING   3               ##.####         ##.####         ETC.    
+  Activity.......tXXXXXX-X.......tXXXXXXX-Y..........tXXXXXXX-Z..........ETC.    
+  STANDING........##.####..........##.####.............##.####...........ETC.       
+  WALKING.........##.####..........##.####.............##.####...........ETC.    
 
 
         Because this was to be a new data set, I copied "alldata" into a temporary
