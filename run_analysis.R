@@ -38,6 +38,8 @@ totaltest <-  cbind(y_test, subject_test, X_test)
 
 total <- rbind(totaltest, totaltrain)
 
+
+
 ## COMPLETED REQUIREMENT 1 - MERGES THE TRAINING AND THE TEST SETS INTO ONE DATASET
 ## the combined data is the the variable: "total"
 ## "total has 10299 rows and 563 columns
